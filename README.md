@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @prabhashranjn
 - 👀 I’m interested in coding.
-- 🌱 I’m currently learning python ,java.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
